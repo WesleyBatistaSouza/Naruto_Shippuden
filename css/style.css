@@ -4,7 +4,7 @@ body{
   font-family: Arial, sans-serif;
   font-size: 40px;
   color: black;
-  text-shadow: 1px 1px 1px white;
+  text-shadow: 1px 1px 1px #ffffff;
   text-align: justify;
   background-image: linear-gradient(to bottom, darkorange , orange, yellow);
   background-attachment: fixed;
